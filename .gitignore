@@ -49,3 +49,7 @@ Temporary Items
 # Credentials file. Only shared among devs.
 
 creds.txt
+
+# Data Files ignored from Git
+
+_data/*
